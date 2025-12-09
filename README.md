@@ -45,3 +45,11 @@ Here are some ideas to get you started:
 ### Communication
 
 [![My Skills](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kharisdestianmaulana/Kharisdestianmaulana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kharisdestianmaulana/Kharisdestianmaulana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kharisdestianmaulana/Kharisdestianmaulana/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://raw.githubusercontent.com/Kharisdestianmaulana/Kharisdestianmaulana/output/snake.svg" alt="Snake animation" />

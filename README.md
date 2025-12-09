@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 ### OS
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-
-![Hatsune'Miku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhtZ2JyZnNzNGVrbGRtMnRkYnEzY2s1N210NHFtdmVrZmpsdGdzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.gif)

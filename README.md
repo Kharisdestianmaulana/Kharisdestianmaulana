@@ -1,5 +1,3 @@
-## Hello World!!! I'm Kharis Destian Maulana 👋
-
 ![Banner](<img/github-header-banner%20(1).png>)
 
 <!--

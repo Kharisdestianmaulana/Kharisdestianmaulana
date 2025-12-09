@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World!!! I'm Kharis Destian Maulana 👋
 
 <!--
 **Kharisdestianmaulana/Kharisdestianmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m currently learning **Game Development**
+- Ask me about **Game Development and Web development**
+
+![Hatsune'Miku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhtZ2JyZnNzNGVrbGRtMnRkYnEzY2s1N210NHFtdmVrZmpsdGdzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.gif)

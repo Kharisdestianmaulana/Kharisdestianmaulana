@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently learning **Game Development**
-- Ask me about **Game Development and Web development**
+- #### I’m currently learning **Game Development**
+- #### Ask me about **Game Development and Web development**
 
 ![Hatsune'Miku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhtZ2JyZnNzNGVrbGRtMnRkYnEzY2s1N210NHFtdmVrZmpsdGdzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.gif)

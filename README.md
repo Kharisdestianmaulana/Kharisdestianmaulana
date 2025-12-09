@@ -1,5 +1,7 @@
 ## Hello World!!! I'm Kharis Destian Maulana 👋
 
+![Banner](img/github-header-banner.png)
+
 <!--
 **Kharisdestianmaulana/Kharisdestianmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
